@@ -1,0 +1,14 @@
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Arrays\ArraysLab\13.Arrays-Lab\03.ReverseAnArray\bin\Debug\net8.0\03.ReverseAnArray.exe
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Arrays\ArraysLab\13.Arrays-Lab\03.ReverseAnArray\bin\Debug\net8.0\03.ReverseAnArray.deps.json
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Arrays\ArraysLab\13.Arrays-Lab\03.ReverseAnArray\bin\Debug\net8.0\03.ReverseAnArray.runtimeconfig.json
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Arrays\ArraysLab\13.Arrays-Lab\03.ReverseAnArray\bin\Debug\net8.0\03.ReverseAnArray.dll
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Arrays\ArraysLab\13.Arrays-Lab\03.ReverseAnArray\bin\Debug\net8.0\03.ReverseAnArray.pdb
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Arrays\ArraysLab\13.Arrays-Lab\03.ReverseAnArray\obj\Debug\net8.0\03.ReverseAnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Arrays\ArraysLab\13.Arrays-Lab\03.ReverseAnArray\obj\Debug\net8.0\03.ReverseAnArray.AssemblyInfoInputs.cache
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Arrays\ArraysLab\13.Arrays-Lab\03.ReverseAnArray\obj\Debug\net8.0\03.ReverseAnArray.AssemblyInfo.cs
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Arrays\ArraysLab\13.Arrays-Lab\03.ReverseAnArray\obj\Debug\net8.0\03.ReverseAnArray.csproj.CoreCompileInputs.cache
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Arrays\ArraysLab\13.Arrays-Lab\03.ReverseAnArray\obj\Debug\net8.0\03.ReverseAnArray.dll
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Arrays\ArraysLab\13.Arrays-Lab\03.ReverseAnArray\obj\Debug\net8.0\refint\03.ReverseAnArray.dll
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Arrays\ArraysLab\13.Arrays-Lab\03.ReverseAnArray\obj\Debug\net8.0\03.ReverseAnArray.pdb
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Arrays\ArraysLab\13.Arrays-Lab\03.ReverseAnArray\obj\Debug\net8.0\03.ReverseAnArray.genruntimeconfig.cache
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Arrays\ArraysLab\13.Arrays-Lab\03.ReverseAnArray\obj\Debug\net8.0\ref\03.ReverseAnArray.dll

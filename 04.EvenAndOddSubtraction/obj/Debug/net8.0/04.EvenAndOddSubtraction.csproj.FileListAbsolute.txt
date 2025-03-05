@@ -1,0 +1,14 @@
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Arrays\ArraysLab\13.Arrays-Lab\04.EvenAndOddSubtraction\bin\Debug\net8.0\04.EvenAndOddSubtraction.exe
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Arrays\ArraysLab\13.Arrays-Lab\04.EvenAndOddSubtraction\bin\Debug\net8.0\04.EvenAndOddSubtraction.deps.json
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Arrays\ArraysLab\13.Arrays-Lab\04.EvenAndOddSubtraction\bin\Debug\net8.0\04.EvenAndOddSubtraction.runtimeconfig.json
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Arrays\ArraysLab\13.Arrays-Lab\04.EvenAndOddSubtraction\bin\Debug\net8.0\04.EvenAndOddSubtraction.dll
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Arrays\ArraysLab\13.Arrays-Lab\04.EvenAndOddSubtraction\bin\Debug\net8.0\04.EvenAndOddSubtraction.pdb
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Arrays\ArraysLab\13.Arrays-Lab\04.EvenAndOddSubtraction\obj\Debug\net8.0\04.EvenAndOddSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Arrays\ArraysLab\13.Arrays-Lab\04.EvenAndOddSubtraction\obj\Debug\net8.0\04.EvenAndOddSubtraction.AssemblyInfoInputs.cache
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Arrays\ArraysLab\13.Arrays-Lab\04.EvenAndOddSubtraction\obj\Debug\net8.0\04.EvenAndOddSubtraction.AssemblyInfo.cs
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Arrays\ArraysLab\13.Arrays-Lab\04.EvenAndOddSubtraction\obj\Debug\net8.0\04.EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Arrays\ArraysLab\13.Arrays-Lab\04.EvenAndOddSubtraction\obj\Debug\net8.0\04.EvenAndOddSubtraction.dll
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Arrays\ArraysLab\13.Arrays-Lab\04.EvenAndOddSubtraction\obj\Debug\net8.0\refint\04.EvenAndOddSubtraction.dll
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Arrays\ArraysLab\13.Arrays-Lab\04.EvenAndOddSubtraction\obj\Debug\net8.0\04.EvenAndOddSubtraction.pdb
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Arrays\ArraysLab\13.Arrays-Lab\04.EvenAndOddSubtraction\obj\Debug\net8.0\04.EvenAndOddSubtraction.genruntimeconfig.cache
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Arrays\ArraysLab\13.Arrays-Lab\04.EvenAndOddSubtraction\obj\Debug\net8.0\ref\04.EvenAndOddSubtraction.dll
